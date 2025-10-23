@@ -3,6 +3,10 @@
 This repository contains a **Sales Performance Dashboard** that provides insights into total sales, profits, and product/category performance.  
 The dashboard helps analyze key sales metrics over time, payment methods, and sales channels.
 
+
+<img width="1311" height="706" alt="Screenshot 2025-10-23 221256" src="https://github.com/user-attachments/assets/5c6cf72e-28b9-43df-9b2e-15b794143e0e" />
+
+
 ---
 
 ## 🚀 **Overview**
